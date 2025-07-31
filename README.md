@@ -51,6 +51,7 @@ Here is an example of what the Etch A Sketch turtle drawing might look like duri
 <p align="center"> <img src="images/etch_a_sketch_preview.png" alt="Etch A Sketch Turtle Drawing Preview" width="500"/> </p>
 The turtle draws lines in real-time based on your key inputs.
 The movement mimics the nostalgic Etch A Sketch toy experience — use WASD to sketch, press C to clear!
+my drawing is bad ngl :D
 
 🙋‍♂️ Author
 Made by [Like-Supreme]
